@@ -41,15 +41,15 @@ The script will generate three charts:
 
 ### Total Sales by Product
 
-![Total Sales by Product](screenshots/total_sales.png)
+![Total Sales by Product](screenshots/total_sales.jpg)
 
 ### Daily Sales by Product
 
-![Daily Sales by Product](screenshots/daily_sales.png)
+![Daily Sales by Product](screenshots/daily_sales.jpg)
 
 ### Overall Sales Trend
 
-![Overall Sales Trend](screenshots/overall_sales.png)
+![Overall Sales Trend](screenshots/overall_sales.jpg)
 
 ## License
 
