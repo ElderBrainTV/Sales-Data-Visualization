@@ -1,0 +1,7 @@
+date|product|sales
+2022-01-01|Product A|100
+2022-01-01|Product B|200
+2022-01-02|Product A|150
+2022-01-02|Product B|250
+2022-01-03|Product A|120
+2022-01-03|Product B|220
